@@ -7,7 +7,9 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CQRSCore", "src\CQRSCore\CQ
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{196994E0-B7F4-4268-A170-2C8C1543AEEC}"
 	ProjectSection(SolutionItems) = preProject
+		build.ps1 = build.ps1
 		global.json = global.json
+		test.ps1 = test.ps1
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CQRSCore.Tests", "test\CQRSCore.Tests\CQRSCore.Tests.xproj", "{55835BD6-587F-4CC9-975D-A8A469DCB1F7}"
